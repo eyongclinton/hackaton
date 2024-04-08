@@ -1,0 +1,22 @@
+.faq-item {
+  margin-bottom: 16px;
+}
+
+.faq-question {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  color: #007bff; /* Blue */
+}
+
+.faq-toggle {
+  margin-left: auto;
+  font-size: 18px;
+}
+
+.faq-answer {
+  margin-top: 8px;
+  color: #555; /* Medium gray */
+  font-size: 14px;
+}
